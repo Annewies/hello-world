@@ -84,3 +84,15 @@ body {
   background-size: cover;
   position: relative;
 }
+
+.blogs-section {
+  text-align: center;
+  padding: 10rem 2rem;
+  background: var(--color-grey0);
+}
+
+.blogs-section-header {
+  max-width: 640px;
+  margin: 0 auto 6rem auto;
+  border-bottom: 0.2rem solid var(--color-secondary);
+}
